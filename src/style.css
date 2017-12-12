@@ -1,3 +1,13 @@
+@font-face{
+	font-family: 'nanum';
+	src: url('./nanum.eot') format('eot');
+	font-weight: 600;
+	font-style: normal;
+}
+
 .hello {
+	font-size: 80px;
 	color: red;
+	background: url('./icon.jpeg');
+	font-family: 'nanum'
 }
